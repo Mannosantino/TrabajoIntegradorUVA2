@@ -1,0 +1,213 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #35424a;
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #dddddd;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+form {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #35424a;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+
+.Imagen-perfil {
+    display: flex;
+    padding: 20px;
+    
+    
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #35424a;
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    gap: 30px; 
+    width: 70%; 
+    margin: 30px auto; 
+}
+
+.small-container {
+    background-color: #f0f0f0; 
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.large-container {
+    background-color: #f0f0f0; 
+    padding: 20px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.footer {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 25px; 
+}
+
+.avisos-sub {
+    text-align: left;
+    font-size: 35px;
+}
+
+.lista-avisos {
+    font-size: 20px;
+    
+}
+
+.materias-sub {
+    text-align: left;
+    font-size: 35px;
+}
+
+.sobremi-sub {
+    text-align: left;
+    font-size: 35px;
+}
+
+.info-adicional {
+    text-align: left;
+    font-size: 20px;
+}
+
+.menu {
+    font-size: 20px;
+    margin: 20px;
+}
+
+.materias-sub {
+    text-align: left;
+    font-size: 35px;
+}   
+
+.lista-materias {
+    font-size: 25px;
+    padding: 10px;
+    
+}
+
+.contacto-sub {
+    text-align: left;
+    font-size: 40px;
+}
+
+.formulario-sub {
+    font-size: 20px;
+}
+
+.fechas-sub {
+    font-size: 20px;
+    padding: 35px;
+    margin: 20px;
+}
+
+
+a {
+    color: black; 
+    text-decoration: none; 
+}
+
+a:hover {
+    color: darkgray; 
+    text-decoration: underline;
+}
